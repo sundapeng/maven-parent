@@ -54,6 +54,27 @@ under the License.
         </mailingList>
     </mailingLists>
 
+    <scm>
+        <connection>
+            scm:git:git@github.com:sundapeng/maven-parent.git
+        </connection>
+        <developerConnection>
+            scm:git:git@github.com:sundapeng/maven-parent.git
+        </developerConnection>
+        <url>
+            https://github.com/sundapeng/maven-parent.git
+        </url>
+    </scm>
+
+    <developers>
+        <developer>
+            <email>sdp@apache.org</email>
+            <name>Dapeng Sun</name>
+            <url>https://github.com/sundapeng</url>
+            <id>sundapeng</id>
+        </developer>
+    </developers>
+    
     <distributionManagement>
         <repository>
             <id>sundp.releases.https</id>
