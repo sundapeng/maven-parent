@@ -1,0 +1,14 @@
+*.iml
+.project
+.settings
+.gradle
+.idea
+.svn
+.classpath
+.project
+.settings
+dist
+*classes
+target/
+build/
+
